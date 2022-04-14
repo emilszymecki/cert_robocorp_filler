@@ -1,4 +1,4 @@
-# robot conqueror :)
+# conqueror robot :)
 
 It is only to help you achieve your ROBOCORP Level 3 goal
 
