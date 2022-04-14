@@ -1,13 +1,6 @@
-# Template: Robot Framework Browser (Playwright)
+# He's a robot conqueror :)
 
-Want to build a [Playwright](https://playwright.dev/)-based browser robot? Great!
+It is only to help you achieve your ROBOCORP Level 3 goal
 
-This template robot:
-
-- Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- Includes all the necessary dependencies and initialization commands (`conda.yaml`).
-- Provides a simple task template to start from (`tasks.robot`).
-
-## Learning materials
-
-- [Using the Robot Framework Browser library, based on Playwright](https://robocorp.com/docs/development-guide/browser/playwright)
+You set the answers in the vars.py file
+by changing the value of the select key to true or false
